@@ -4,7 +4,7 @@ A Python web scraper for extracting data from LinkedIn profiles and search resul
 
 ## Features
 
-- Login to LinkedIn using provided credentials
+- Login to LinkedIn using the provided credentials
 - Navigate LinkedIn profiles and search results
 - Extract data such as names, job titles, and companies
 - Save extracted data in CSV or JSON format
@@ -12,5 +12,5 @@ A Python web scraper for extracting data from LinkedIn profiles and search resul
 ## Installation
 
 1. Clone the Repository:
-   git clone https://github.com/YOUR_GITHUB_USERNAME/Python-Web-Scraper.git
+   git clone https://github.com/PathakAnkit11/Python-Web-Scraper.git
    cd Python-Web-Scraper
